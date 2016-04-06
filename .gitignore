@@ -1,0 +1,18 @@
+### Gradle ###
+.gradle
+/build/
+
+### Intellij ###
+.idea/
+*.ipr
+*.iml
+*.iws
+out/
+
+### Vim ###
+*.sw[op]
+
+
+### Mac OSX + Windows ###
+Thumbs.db
+.DS_Store
